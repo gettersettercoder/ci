@@ -1,0 +1,178 @@
+[21-Nov-2017 14:15:39 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[21-Nov-2017 14:15:46 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[21-Nov-2017 14:15:48 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[21-Nov-2017 14:16:02 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[21-Nov-2017 14:16:05 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[21-Nov-2017 14:16:21 Etc/GMT] PHP Fatal error:  Call to a member function result() on boolean in /home/cmexpknw/public_html/phishem/application/models/My_model.php on line 84
+[24-Nov-2017 12:35:48 Etc/GMT] PHP Fatal error:  Call to undefined function set_default_timezone() in /home/cmexpknw/public_html/phishem/index.php on line 2
+[24-Nov-2017 12:35:50 Etc/GMT] PHP Fatal error:  Call to undefined function set_default_timezone() in /home/cmexpknw/public_html/phishem/index.php on line 2
+[24-Nov-2017 19:59:37 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[24-Nov-2017 20:00:02 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[24-Nov-2017 20:01:05 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 12:31:53 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 12:32:00 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:19:52 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:39:28 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:43:54 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:44:10 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:44:37 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:48:30 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 16:48:33 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 19:27:56 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 19:45:18 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 19:45:21 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 19:45:35 Asia/kolkata] PHP Fatal error:  Call to a member function getTrainingDatatable() on null in /home/cmexpknw/public_html/phishem/application/controllers/User_managment.php on line 53
+[04-Dec-2017 20:09:37 Asia/kolkata] PHP Fatal error:  Call to undefined method User_managment_model::getActivePackages() in /home/cmexpknw/public_html/phishem/application/models/User_managment_model.php on line 80
+[04-Dec-2017 20:36:16 Asia/kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/cmexpknw/public_html/phishem/application/libraries/Datatables.php on line 454
+[04-Dec-2017 20:36:34 Asia/kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/cmexpknw/public_html/phishem/application/libraries/Datatables.php on line 454
+[07-Dec-2017 14:46:37 Etc/GMT] PHP Fatal error:  Call to undefined function file_put_content() in /home/cmexpknw/public_html/phishem/main.php on line 5
+[07-Dec-2017 14:47:41 Etc/GMT] PHP Fatal error:  Call to undefined function file_put_content() in /home/cmexpknw/public_html/phishem/main.php on line 5
+[07-Dec-2017 14:48:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:48:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:49:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:50:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[07-Dec-2017 14:51:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cmexpknw/public_html/phishem/main.php on line 11
+[12-Dec-2017 06:18:44 Etc/GMT] PHP Warning:  readfile(/assets/images/bg.jpg): failed to open stream: No such file or directory in /home/cmexpknw/public_html/phishem/main.php on line 11
+[12-Dec-2017 06:18:46 Etc/GMT] PHP Warning:  readfile(/assets/images/bg.jpg): failed to open stream: No such file or directory in /home/cmexpknw/public_html/phishem/main.php on line 11
+[12-Dec-2017 06:20:24 Etc/GMT] PHP Warning:  readfile(/assets/images/bg.jpg): failed to open stream: No such file or directory in /home/cmexpknw/public_html/phishem/main.php on line 10
+[12-Dec-2017 06:20:48 Etc/GMT] PHP Warning:  readfile(/assets/images/blank.gif): failed to open stream: No such file or directory in /home/cmexpknw/public_html/phishem/main.php on line 10
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:47:46 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 07:56:19 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1102): Incorrect database name '	' in /home/cmexpknw/public_html/phishem/main.php on line 12
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:00:39 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1102): Incorrect database name '	' in /home/cmexpknw/public_html/phishem/main.php on line 12
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:07 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1102): Incorrect database name '	' in /home/cmexpknw/public_html/phishem/main.php on line 12
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:56:12 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1102): Incorrect database name '	' in /home/cmexpknw/public_html/phishem/main.php on line 12
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:57:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 22
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 08:58:44 Etc/GMT] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/cmexpknw/public_html/phishem/main.php on line 23
+[12-Dec-2017 09:05:59 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:00 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:02 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:02 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:03 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:04 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:05 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:06 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:06 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:07 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:07 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:08 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[12-Dec-2017 09:06:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/cmexpknw/public_html/phishem/main.php on line 28
+[23-Dec-2017 06:32:22 Asia/kolkata] PHP Fatal error:  require_once(): Failed opening required 'system/libraries/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cmexpknw/public_html/phishem/application/libraries/Html2pdf.php on line 137
+[25-Dec-2017 14:23:21 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cmexpknw/public_html/phishem/main.php:26) in /home/cmexpknw/public_html/phishem/main.php on line 40
+[25-Dec-2017 14:23:25 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cmexpknw/public_html/phishem/main.php:26) in /home/cmexpknw/public_html/phishem/main.php on line 40
+[25-Dec-2017 14:23:28 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cmexpknw/public_html/phishem/main.php:26) in /home/cmexpknw/public_html/phishem/main.php on line 40
+[27-Dec-2017 11:32:46 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:47 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:47 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:48 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:48 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:49 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:50 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:50 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:51 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:51 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:52 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:53 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:53 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:54 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:54 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:54 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:32:54 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:23 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:23 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:24 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:24 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:25 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:25 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:25 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:26 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:27 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:27 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:28 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 11:33:28 Asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cmexpknw/public_html/phishem/application/models/Campaign_management_model.php on line 487
+[27-Dec-2017 17:41:26 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cmexpknw/public_html/phishem/main.php:29) in /home/cmexpknw/public_html/phishem/main.php on line 43

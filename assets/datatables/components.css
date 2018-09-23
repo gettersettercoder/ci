@@ -1,0 +1,66 @@
+
+.btn.default:not(.btn-outline) {
+  color: #666;
+  background-color: #e1e5ec;
+  border-color: #e1e5ec; }
+  .btn.default:not(.btn-outline):focus,
+  .btn.default:not(.btn-outline).focus {
+    color: #666;
+    background-color: #c2cad8;
+    border-color: #c2cad8; }
+  .btn.default:not(.btn-outline):hover {
+    color: #666;
+    background-color: #c2cad8;
+    border-color: #c2cad8; }
+  .btn.default:not(.btn-outline):active,
+  .btn.default:not(.btn-outline).active,
+  .open > .btn.default:not(.btn-outline).dropdown-toggle {
+    color: #666;
+    background-color: #c2cad8;
+    border-color: #c2cad8; }
+/* Form input sizing */
+.input-mini {
+  width: 45px !important; }
+
+.input-xsmall {
+  width: 80px !important; }
+
+.input-small {
+  width: 145px !important; }
+
+.input-medium {
+  width: 240px !important; }
+
+.input-large {
+  width: 320px !important; }
+
+.input-xlarge {
+  width: 420px !important; }
+
+@media (max-width: 768px) {
+  /* 768px */
+  .input-large {
+    width: 250px !important; }
+  .input-xlarge {
+    width: 300px !important; } }
+
+.input-inline {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle; }
+
+.input-fixed {
+  overflow: hidden; }
+
+.input-fixed {
+  overflow: hidden; }
+
+.form-group .input-inline {
+  margin-right: 5px; }
+
+@media (max-width: 768px) {
+  /* 768px */
+ .input-lg {
+    width: 250px !important; }
+  .input-xlg {
+    width: 300px !important; } }
